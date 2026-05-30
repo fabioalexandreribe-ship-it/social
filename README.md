@@ -3,7 +3,7 @@
 Minha página pessoal de links, feita com HTML e CSS puro.
 
 ## 🌐 Acesse online
-https://fabioalexandreribe-ship-it.github.io/social
+fabiopy-creator.github.io/social
 
 ## 🛠️ Tecnologias usadas
 - HTML5
